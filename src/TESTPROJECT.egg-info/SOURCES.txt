@@ -1,0 +1,13 @@
+LICENSE
+README.md
+setup.py
+src/TESTPROJECT.egg-info/PKG-INFO
+src/TESTPROJECT.egg-info/SOURCES.txt
+src/TESTPROJECT.egg-info/dependency_links.txt
+src/TESTPROJECT.egg-info/top_level.txt
+src/TestProject/__init__.py
+src/TestProject/component/__init__.py
+src/TestProject/config/__init__.py
+src/TestProject/constant/__init__.py
+src/TestProject/entity/__init__.py
+src/TestProject/pipeline/__init__.py
