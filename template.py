@@ -12,6 +12,7 @@ List_Files=[
     f"src/{ProjectName}/entity/__init__.py",
     f"src/{ProjectName}/config/__init__.py",
     f"src/{ProjectName}/pipeline/__init__.py",
+    f"src/{ProjectName}/utils/__init__.py",
     "config/config.yaml",
     "param.yaml",
     "requirement.txt",
@@ -36,7 +37,7 @@ for filepath in List_Files:
     else:
         logging.info(f"Creating empty file {filepath}")
 
-        
+
 
            
 
